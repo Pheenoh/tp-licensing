@@ -21,7 +21,7 @@ DRK-512 | https://github.com/DRK-512 | -
 Yotona | https://github.com/Yotona | -
 tom-overton | https://github.com/tom-overton | -
 Zen64 | https://github.com/Zen64 | -
-kipcode66 | https://github.com/Zen64 | yes, see [here](./public/kipcode66.png)
+kipcode66 | https://github.com/kipcode66 | yes, see [here](./public/kipcode66.png)
 icogn | https://github.com/icogn | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 qwertyquerty | https://github.com/qwertyquerty | -
 EpochFlame | https://github.com/EpochFlame | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
