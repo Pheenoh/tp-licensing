@@ -23,6 +23,6 @@ tom-overton | https://github.com/tom-overton | yes to CC0 [#1](https://github.co
 Zen64 | https://github.com/Zen64 | -
 kipcode66 | https://github.com/kipcode66 | yes to CC0, see [here](./public/kipcode66.png)
 icogn | https://github.com/icogn | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
-qwertyquerty | https://github.com/qwertyquerty | -
+qwertyquerty | https://github.com/qwertyquerty | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 EpochFlame | https://github.com/EpochFlame | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 Thar0 | https://github.com/Thar0 | -
