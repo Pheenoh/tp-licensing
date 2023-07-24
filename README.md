@@ -8,12 +8,10 @@ This repository aims to track the (re)licensing of the contributions to the tp d
 
 Goal: relicense [zeldaret/tp](https://github.com/zeldaret/tp) to CC0, need the contributors to agree. ( -> https://github.com/Pheenoh/tp-licensing/issues/1 )
 
-Or, for new contributors, have their agreement to contribute under CC0. ( -> https://github.com/Dragorn421/tp-licensing/issues/3 )
-
 ## Get in touch
 
 - GitHub: feel free to open an issue https://github.com/Pheenoh/tp-licensing/issues
-- Discord: join zeldaret decomp discord and discuss in on the the tp channels https://discord.gg/rDvMsgnU2m
+- Discord: join zeldaret decomp discord and discuss in on the the tp channels https://discord.zelda64.dev
 
 ## Why?
 
