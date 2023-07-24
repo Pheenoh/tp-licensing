@@ -8,6 +8,13 @@ This repository aims to track the (re)licensing of the contributions to the tp d
 
 Goal: relicense [zeldaret/tp](https://github.com/zeldaret/tp) to CC0, need the contributors to agree. ( -> https://github.com/Pheenoh/tp-licensing/issues/1 )
 
+For future contributors, we will use a PR template that will require consent on the PR prior to it being merged into the repository:
+
+```
+- [ ] I agree that my contribution is licensed under the CC0 license.
+```
+
+
 ## Get in touch
 
 - GitHub: feel free to open an issue https://github.com/Pheenoh/tp-licensing/issues

@@ -4,7 +4,7 @@ List of past contributors to zeldaret/tp https://github.com/zeldaret/tp/ and sta
 
 GitHub Username | GitHub profile | Consent
 -|-|-
-Pheenoh | https://github.com/Pheenoh | -
+Pheenoh | https://github.com/Pheenoh | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 TakaRikka | https://github.com/TakaRikka | -
 lepelog | https://github.com/lepelog | -
 hatal175 | https://github.com/hatal175 | -
@@ -12,7 +12,7 @@ Jcw87 | https://github.com/Jcw87 | -
 magcius | https://github.com/magcius | -
 jdflyer | https://github.com/jdflyer | -
 barzamin | https://github.com/barzamin | -
-Trueffeloot | https://github.com/Trueffeloot | -
+Trueffeloot | https://github.com/Trueffeloot | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 Julgodis | https://github.com/Julgodis | -
 notyourav | https://github.com/notyourav | -
 lioncash | https://github.com/lioncash | -
@@ -23,5 +23,5 @@ Zen64 | https://github.com/Zen64 | -
 kipcode66 | https://github.com/Zen64 | -
 icogn | https://github.com/icogn | -
 qwertyquerty | https://github.com/qwertyquerty | -
-EpochFlame | https://github.com/EpochFlame | -
+EpochFlame | https://github.com/EpochFlame | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 Thar0 | https://github.com/Thar0 | -
