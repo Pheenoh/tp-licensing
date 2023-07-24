@@ -18,8 +18,8 @@ Julgodis | https://github.com/Julgodis | -
 notyourav | https://github.com/notyourav | -
 lioncash | https://github.com/lioncash | -
 DRK-512 | https://github.com/DRK-512 | -
-Yotona | https://github.com/Yotona | -
-tom-overton | https://github.com/tom-overton | -
+Yotona | https://github.com/Yotona | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
+tom-overton | https://github.com/tom-overton | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 Zen64 | https://github.com/Zen64 | -
 kipcode66 | https://github.com/kipcode66 | yes, see [here](./public/kipcode66.png)
 icogn | https://github.com/icogn | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
