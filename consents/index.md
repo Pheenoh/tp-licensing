@@ -15,7 +15,7 @@ jdflyer | https://github.com/jdflyer | yes to CC0 [#1](https://github.com/Pheeno
 barzamin | https://github.com/barzamin | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 Trueffeloot | https://github.com/Trueffeloot | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 Julgodis | https://github.com/Julgodis | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
-notyourav | https://github.com/notyourav | -
+notyourav | https://github.com/notyourav | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 lioncash | https://github.com/lioncash | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 DRK-512 | https://github.com/DRK-512 | -
 Yotona | https://github.com/Yotona | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
