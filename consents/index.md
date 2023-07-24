@@ -14,7 +14,7 @@ magcius | https://github.com/magcius | yes to CC0, see [here](./public/jasper.pn
 jdflyer | https://github.com/jdflyer | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 barzamin | https://github.com/barzamin | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 Trueffeloot | https://github.com/Trueffeloot | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
-Julgodis | https://github.com/Julgodis | -
+Julgodis | https://github.com/Julgodis | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 notyourav | https://github.com/notyourav | -
 lioncash | https://github.com/lioncash | -
 DRK-512 | https://github.com/DRK-512 | -
