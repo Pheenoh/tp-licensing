@@ -10,7 +10,7 @@ lepelog | https://github.com/lepelog | -
 hatal175 | https://github.com/hatal175 | -
 Jcw87 | https://github.com/Jcw87 | -
 magcius | https://github.com/magcius | -
-jdflyer | https://github.com/jdflyer | -
+jdflyer | https://github.com/jdflyer | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 barzamin | https://github.com/barzamin | -
 Trueffeloot | https://github.com/Trueffeloot | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 Julgodis | https://github.com/Julgodis | -
