@@ -5,8 +5,9 @@ List of past contributors to zeldaret/tp https://github.com/zeldaret/tp/ and sta
 GitHub Username | GitHub profile | Consent
 -|-|-
 Pheenoh | https://github.com/Pheenoh | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
-TakaRikka | https://github.com/TakaRikka | -
+TakaRikka | https://github.com/TakaRikka | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 lepelog | https://github.com/lepelog | -
+Revo | https://github.com/RevoSucks | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 hatal175 | https://github.com/hatal175 | -
 Jcw87 | https://github.com/Jcw87 | -
 magcius | https://github.com/magcius | -
