@@ -16,7 +16,7 @@ barzamin | https://github.com/barzamin | yes to CC0 [#1](https://github.com/Phee
 Trueffeloot | https://github.com/Trueffeloot | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 Julgodis | https://github.com/Julgodis | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 notyourav | https://github.com/notyourav | -
-lioncash | https://github.com/lioncash | -
+lioncash | https://github.com/lioncash | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 DRK-512 | https://github.com/DRK-512 | -
 Yotona | https://github.com/Yotona | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 tom-overton | https://github.com/tom-overton | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
