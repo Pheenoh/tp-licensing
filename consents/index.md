@@ -6,7 +6,7 @@ GitHub Username | GitHub profile | Consent
 -|-|-
 Pheenoh | https://github.com/Pheenoh | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 TakaRikka | https://github.com/TakaRikka | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
-lepelog | https://github.com/lepelog | -
+lepelog | https://github.com/lepelog | yes to CC0, see [here](./public/lepelog.png)
 RevoSucks | https://github.com/RevoSucks | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 hatal175 | https://github.com/hatal175 | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 Jcw87 | https://github.com/Jcw87 | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
