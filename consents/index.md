@@ -17,10 +17,10 @@ Trueffeloot | https://github.com/Trueffeloot | yes to CC0 [#1](https://github.co
 Julgodis | https://github.com/Julgodis | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 notyourav | https://github.com/notyourav | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 lioncash | https://github.com/lioncash | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
-DRK-512 | https://github.com/DRK-512 | -
+DRK-512 | https://github.com/DRK-512 | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 Yotona | https://github.com/Yotona | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 tom-overton | https://github.com/tom-overton | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
-Zen64 | https://github.com/Zen64 | -
+Zen64 | https://github.com/Zen64 | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 kipcode66 | https://github.com/kipcode66 | yes to CC0, see [here](./public/kipcode66.png)
 icogn | https://github.com/icogn | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 qwertyquerty | https://github.com/qwertyquerty | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
