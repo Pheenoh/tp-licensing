@@ -25,4 +25,4 @@ kipcode66 | https://github.com/kipcode66 | yes to CC0, see [here](./public/kipco
 icogn | https://github.com/icogn | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 qwertyquerty | https://github.com/qwertyquerty | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
 EpochFlame | https://github.com/EpochFlame | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
-Thar0 | https://github.com/Thar0 | -
+Thar0 | https://github.com/Thar0 | yes to CC0 [#1](https://github.com/Pheenoh/tp-licensing/issues/1)
